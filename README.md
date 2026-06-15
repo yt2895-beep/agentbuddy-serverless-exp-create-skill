@@ -7,7 +7,7 @@ AgentBuddy Skill：SIA Shadow In Auction 实验环境管理。
 ## 安装
 
 ```bash
-git clone https://code.byted.org/yiwen.tan/sia-exp-create.git ~/.agents/skills/sia-exp-create
+git clone https://github.com/yt2895-beep/agentbuddy-serverless-exp-create-skill.git ~/.agents/skills/sia-exp-create
 ```
 
 > 安装后重启 Agent（Codex / Claude Code / TRAE）即生效，无需其他配置。
@@ -15,7 +15,7 @@ git clone https://code.byted.org/yiwen.tan/sia-exp-create.git ~/.agents/skills/s
 ## 更新
 
 ```bash
-cd ~/.agents/skills/sia-exp-create && git pull
+cd ~/.agents/skills/sia-exp-create && git pull origin main
 ```
 
 ## 使用示例
